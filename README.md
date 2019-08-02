@@ -1,6 +1,6 @@
 # FoodCycle
 
-FoodCycle is an application that allows merchants to post an add for food that remains at the end of the day or week that would otherwise be thrown out. The merchant is then about to recouperate some lost revenue by selling these remaining items at a discount. Users of the app can browse deals in their area and pay for them directly on the site, then simply pick them up before the end of the day.
+FoodCycle is an application that allows merchants to post an add for food that remains at the end of the day or week that would otherwise be thrown out. The merchant is then able to recuperate some lost revenue by selling these remaining items at a discount. Users of the app can browse deals in their area and pay for them directly on the site, then simply pick them up before the end of the day.
 
 The project team consists of [Karine Seguin](https://github.com/karineseguin22), [Yu Liang](https://github.com/keefu), [Saad Hafa](https://github.com/leboss125) & [Fred Lavoie](https://github.com/FredLavoie).
 
